@@ -1,0 +1,9 @@
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.exe
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.pdb
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\WindowsFormsApplication15.Form1.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\WindowsFormsApplication15.Form2.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\internet calculator.csproj.GenerateResource.Cache
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\WindowsFormsApplication15.exe
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\WindowsFormsApplication15.pdb
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Release\Internet calculator.csprojResolveAssemblyReference.cache

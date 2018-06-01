@@ -1,0 +1,9 @@
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Form1.resources
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Properties.Resources.resources
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+c:\users\petryxa\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache

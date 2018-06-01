@@ -1,0 +1,11 @@
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\internet calculator.csproj.GenerateResource.Cache
+C:\Users\petryxa\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\Internet calculator.csprojResolveAssemblyReference.cache
+C:\Users\petryxa\Desktop\Курсова робота Зиль Петро КНІТ-21\Програмна реалізація калькулятора підрахунку матеріалів при прокладанні комп’ютерної мережі\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+C:\Users\petryxa\Desktop\Курсова робота Зиль Петро КНІТ-21\Програмна реалізація калькулятора підрахунку матеріалів при прокладанні комп’ютерної мережі\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
